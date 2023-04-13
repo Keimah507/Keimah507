@@ -2,7 +2,7 @@
 <br /> 
 
                     
-`**Digital Craftsman (Developer / Programmer)**`
+`**Backend Software developer**`
 
                     
 
@@ -64,8 +64,8 @@ My passion for software engineering is fueled by a relentless curiosity and an e
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/Keimah507/Artlink_v.1.0#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keimah507&repo=Artlink_v1.0&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Keimah507/Artlink_v.1.0#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keimah507&repo=Artlink_v1.0&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/Keimah507/Artlink_v.1.0#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keimah507&repo=Artlink_v.1.0&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/Keimah507/Artlink_v.1.0#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keimah507&repo=Artlink_v.1.0&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
